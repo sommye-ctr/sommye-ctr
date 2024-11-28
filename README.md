@@ -21,7 +21,7 @@ Here’s a quick glance at my skill set:
 
 Here are some projects I’ve been working on:
 
-- **[CineNexa](https://github.com/YourGitHubUsername/CineNexa)**  
+- **[CineNexa](https://github.com/sommye-ctr/cinenexa)**  
   A movie and TV show tracker powered by Trakt.tv and TMDB APIs. Track, discover, and binge seamlessly.  
   ![Tech Stack](https://img.shields.io/badge/TechStack-Flutter_SpringBoot_Dart-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 ---
