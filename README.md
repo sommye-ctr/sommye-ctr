@@ -30,7 +30,7 @@ Here are some projects I’ve been working on:
 
 Feel free to reach out or connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/somye-mahajan-b1384b332)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/somye-mahajan-b1384b332/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/_sommyee/)
 
 ---
