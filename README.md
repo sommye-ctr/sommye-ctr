@@ -37,7 +37,7 @@ Feel free to reach out or connect with me:
 
 ### 🌱 Fun Facts About Me
 
-- 🔭 Currently working on **Stacker** and other exciting projects.
+- 🔭 Currently working on **Shortlytic** and other exciting projects.
 - 🌱 Learning **spring boot** and exploring **gcp - google cloud project**.
 
 Thanks for stopping by! Don't forget to ⭐ your favorite repositories. 😊
