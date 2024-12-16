@@ -14,6 +14,11 @@ Here’s a quick glance at my skill set:
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=6DB33F)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![Android](https://img.shields.io/badge/Mobile-Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
+
+
 
 ---
 
